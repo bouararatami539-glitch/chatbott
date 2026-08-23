@@ -1,0 +1,6 @@
+{
+  "name": "Faculté MIT Saïda",
+  "description": "Portail d'orientation personnalisé et chatbot intelligent pour les nouveaux bacheliers de la Faculté MIT (Mathématiques, Informatique, Télécommunications) de l'Université de Saïda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
